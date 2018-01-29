@@ -1,0 +1,7 @@
+[package]
+name = "rpi-mmal"
+version = "0.1.0"
+authors = ["pi"]
+
+[dependencies]
+rpi-mmal-sys = { path = "../rpi-mmal-sys" }
